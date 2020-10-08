@@ -32,7 +32,7 @@ Ideally it should be loaded as the last addon in Volto project configuration.
     ],
 
     "dependencies": {
-        "@eeacms/volto-block-style": "1.0.0"
+        "@eeacms/volto-block-style": "github:eea/volto-block-style#1.0.0"
     }
     ```
 
